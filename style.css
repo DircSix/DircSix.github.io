@@ -1,0 +1,39 @@
+body {
+    background-image: url(biotech-background.jpg);
+    background-size: cover;
+}
+
+.btn-primary:hover {
+  background-color: green;
+}
+
+.btn {
+    margin-left: 80px;
+    padding: 10px;
+}
+
+h1 {
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    color: blue;
+    font-family: 'BioRhyme', serif;
+}
+
+.vista {
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
+.justify-content-md-center {
+    margin-top: 90px;
+}
+
+.row {
+    align-content: center;
+}
+
+.registrar {
+    margin-left: 350px;
+    margin-top: 20px;
+}
